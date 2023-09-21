@@ -1,0 +1,43 @@
+.cards-container {
+  display: flex;
+  min-height: 200px;
+  width: 90%;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 40px 0;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 75%;
+  width: 20%;
+  padding: 0px 10px;
+  border-radius: 32px;
+  background: #ffffff;
+  box-shadow: inset 10px 10px 20px #ebebeb, inset -10px -10px 20px #ffffff;
+}
+
+.card-title-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-data-wrapper {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.profit-percentage-div,
+.non-profit-percentage-div {
+  display: inline;
+  font-size: 15px;
+  margin-left: 10px;
+  color: green;
+}
+
+.non-profit-percentage-div {
+  color: rgb(192, 25, 25);
+}
