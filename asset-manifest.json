@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/cloudwise/static/css/main.31fd9d0a.css",
+    "main.css": "/cloudwise/static/css/main.2fdbac23.css",
     "main.js": "/cloudwise/static/js/main.db46fd98.js",
     "static/js/787.c2f8e491.chunk.js": "/cloudwise/static/js/787.c2f8e491.chunk.js",
     "static/media/cw-poster.png": "/cloudwise/static/media/cw-poster.9a2c471d5fff67e7623f.png",
     "static/media/cw-logo.png": "/cloudwise/static/media/cw-logo.3883b7beaf3ab87f014b.png",
     "index.html": "/cloudwise/index.html",
-    "main.31fd9d0a.css.map": "/cloudwise/static/css/main.31fd9d0a.css.map",
+    "main.2fdbac23.css.map": "/cloudwise/static/css/main.2fdbac23.css.map",
     "main.db46fd98.js.map": "/cloudwise/static/js/main.db46fd98.js.map",
     "787.c2f8e491.chunk.js.map": "/cloudwise/static/js/787.c2f8e491.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31fd9d0a.css",
+    "static/css/main.2fdbac23.css",
     "static/js/main.db46fd98.js"
   ]
 }
